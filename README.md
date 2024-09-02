@@ -12,7 +12,19 @@ VisArch-Database-Manager is a comprehensive database management system designed 
 - **Seamless Integration**: Optimized for Unity, leveraging the Unity Editor and .NET frameworks.
 
 # Getting Started
-# Prerequisites
+**Prerequisites**
 - Unity 2020.3 or later
 - .NET Framework 4.x
 - Mono.Data.Sqlite (for local SQLite database support)
+
+#Installation
+- Clone the repository to your local machine.
+- Open your Unity project and add the VisArch-Database-Manager folder to your Assets directory.
+
+#Usage
+###Initialize the Database Manager:
+1. Create an instance of GlobalDatabaseManager in your Unity scene.
+2.Configure the DatabaseMode (either local or cloud) to switch between local and cloud databases.
+
+###Perform CRUD Operations:
+-Use the provided methods like InsertAsync, SelectAllAsync, UpdateSpecificRowAsync, and DeleteAsync to manage your database records.
