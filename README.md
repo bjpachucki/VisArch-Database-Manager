@@ -31,3 +31,11 @@ VisArch-Database-Manager is a comprehensive database management system designed 
 **Perform CRUD Operations:**
 
 -Use the provided methods like InsertAsync, SelectAllAsync, UpdateSpecificRowAsync, and DeleteAsync to manage your database records.
+
+# Contributing
+
+As this is a private repository intended for specific sharing purposes, contributions are currently not open to the public. Please reach out to the repository owner for more information.
+
+# License
+
+This repository is currently private. All rights reserved by the owner.
