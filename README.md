@@ -10,3 +10,9 @@ VisArch-Database-Manager is a comprehensive database management system designed 
 - **Generic Programming**: Generic methods allow for flexible data management across various types.
 - **CRUD Functionalities**: Includes methods for creating, reading, updating, and deleting data across different database types.
 - **Seamless Integration**: Optimized for Unity, leveraging the Unity Editor and .NET frameworks.
+
+# Getting Started
+# Prerequisites
+- Unity 2020.3 or later
+- .NET Framework 4.x
+- Mono.Data.Sqlite (for local SQLite database support)
