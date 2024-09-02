@@ -22,9 +22,12 @@ VisArch-Database-Manager is a comprehensive database management system designed 
 - Open your Unity project and add the VisArch-Database-Manager folder to your Assets directory.
 
 # Usage
+
 **Initialize the Database Manager:**
+
 1. Create an instance of GlobalDatabaseManager in your Unity scene.
-2.Configure the DatabaseMode (either local or cloud) to switch between local and cloud databases.
+2. Configure the DatabaseMode (either local or cloud) to switch between local and cloud databases.
 
 **Perform CRUD Operations:**
+
 -Use the provided methods like InsertAsync, SelectAllAsync, UpdateSpecificRowAsync, and DeleteAsync to manage your database records.
